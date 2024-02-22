@@ -26,7 +26,7 @@ https://github.com/mitchellkrogza/Phishing.Database/tree/master
 
 or
 
-https://github.com/L101111/phishing-buster/blob/main/list.txt
+https://github.com/L101111/phishing-buster/blob/main/list.txt /note that this one can be outdated/
 
 
 # Be Safe 
