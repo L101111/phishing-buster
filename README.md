@@ -10,12 +10,12 @@ To use the tool, specify the url databases location like this:
 
 If you dont have a database, you can download one from here:
 
-https://github.com/mitchellkrogza/Phishing.Database/tree/master
+                https://github.com/mitchellkrogza/Phishing.Database/tree/master
 
 or
 
-https://github.com/L101111/phishing-buster/blob/main/list.txt
+                https://github.com/L101111/phishing-buster/blob/main/list.txt
 
 # Be Safe 
 
-# Enjoy
+
