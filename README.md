@@ -1,6 +1,10 @@
+<div align='center'>
+
 <h1>URL Phishing Buster</h1>
 <p>This is a simple tool that checks provided url in a phishing database.</p>
 <img src='https://github.com/L101111/phishing-buster/blob/main/screen.png' width='600px' />
+
+</div>
 
 # Usage
 
